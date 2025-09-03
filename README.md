@@ -46,10 +46,7 @@ python app.py
   <li>⚡ <b>Fast and Efficient:</b> Get results in seconds and take actionable steps towards your career goals.</li>
 </ul>
 
-<h3>🎉 Enjoy using SKANA? Follow our developers:</h3>
-<p>Siri Karra - <a href="https://github.com/heyysiri">heyysiri</a> <br>
-Aditya Donapati - <a href="https://github.com/adonapati">adonapati</a> <br>
-Manogna Vadla - <a href="https://github.com/manognavadla">manognavadla</a></p>
+
 
 <h3>📫 Have feedback or need support?</h3>
 <p>Feel free to reach out to us on our GitHub pages or open an issue in the repository. We're here to help!</p>
