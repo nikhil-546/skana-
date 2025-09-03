@@ -16,7 +16,7 @@ Upload your resume and the job description of your desired position, then click 
 
 <pre>
 <code>
-git clone https://github.com/heyysiri/SKANA.git
+git clone https://github.com/nikhil-546/skana-
 </code>
 </pre>
 <br>
